@@ -25,7 +25,7 @@ No es un ERP ni compite con los grandes ERP, y tampoco es "solo IA". Su valor es
 
 ## Estado del proyecto
 
-Fase de ideación y validación (aún sin construcción). Siguiente paso: encuestar talleres pequeños para validar disposición de pago, precio y hábitos de registro.
+Fase de ideación y validación (aún sin construcción). Siguiente paso: Determinar demo y construir.
 
 ## Origen
 
