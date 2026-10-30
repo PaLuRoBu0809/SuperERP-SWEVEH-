@@ -1,6 +1,6 @@
 # SWEVEH
 
-> *by WEVEH Group* · Se pronuncia "Suebe"
+> *by WEVEH Group* 
 
 **SWEVEH es la entrada fácil de los talleres a un sistema confiable con automatizaciones reales.**
 
